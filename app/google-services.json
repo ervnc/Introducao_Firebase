@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390004275341",
+    "project_id": "introducao-firebase-183ab",
+    "storage_bucket": "introducao-firebase-183ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390004275341:android:44e2c752afe9ee1e3d8ac4",
+        "android_client_info": {
+          "package_name": "com.example.introducao_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390004275341-38fv86ataavoc371ej262t9dc7amo8os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhqg09R00-XJQMH-IPSwEF5ivWVqrK1rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390004275341-38fv86ataavoc371ej262t9dc7amo8os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
